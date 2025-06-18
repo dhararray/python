@@ -37,9 +37,37 @@
 #     break
 #   attempts= attempts-1
 
-    
-
-
-  
-      
-
+#     cute cal
+# def sum(n1,n2):
+#     return n1+n2
+# def min(n1,n2):
+#     return n1-n2
+# def div(n1,n2):
+#     return n1/n2
+# def muti(n1,n2):
+#     return n1*n2
+# def modu(n1,n2):
+#     return n1%n2
+# print("enter any 2 numbers")
+# n1=int(input("1 number"))
+# n2=int(input("2 number"))
+# choice=input("enter your choice of calculation"+"\n"+ "options: + - / % * x")
+# match choice:
+#     case "+" :
+#         ans=sum(n1,n2)
+#         print(ans)
+#     case "-" :   
+#         ans= min(n1,n2)
+#         print(ans)
+#     case "/" :
+#         ans= div(n1,n2)
+#         print(ans)             
+#     case "*" :
+#         ans= muti(n1,n2)                       
+#         print(ans)  
+#     case "%" :
+#         ans= modu(n1,n2)
+#         print(ans)
+#     case "x" :
+#         print("invalid")
+        
