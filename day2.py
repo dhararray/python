@@ -70,4 +70,4 @@
 #         print(ans)
 #     case "x" :
 #         print("invalid")
-        
+print()
